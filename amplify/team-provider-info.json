@@ -1,0 +1,15 @@
+{
+    "mac": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-brewtopia-mac-143757-authRole",
+            "UnauthRoleArn": "arn:aws:iam::249043572470:role/amplify-brewtopia-mac-143757-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::249043572470:role/amplify-brewtopia-mac-143757-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-brewtopia-mac-143757-deployment",
+            "UnauthRoleName": "amplify-brewtopia-mac-143757-unauthRole",
+            "StackName": "amplify-brewtopia-mac-143757",
+            "StackId": "arn:aws:cloudformation:eu-west-1:249043572470:stack/amplify-brewtopia-mac-143757/48db19b0-4437-11ea-a848-06ac9a67575a",
+            "AmplifyAppId": "djsqhurcos3a4"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "projectName": "brewtopia",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "react-native",
+        "config": {
+            "SourceDir": "/Users/user/www/brewtopia",
+            "DistributionDir": "/users/user/www/brewtopia-dist",
+            "BuildCommand": "expo start",
+            "StartCommand": "npm run-script start"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}
